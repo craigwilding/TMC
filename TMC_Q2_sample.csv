@@ -1,0 +1,15 @@
+name,phone
+ten digit,1234567890
+country code,11234567890
+seven digit,4567890
+nine digit,234567890
+four digit,7890
+twenty digit,12345678909876543210
+ten dash,123-456-7890
+area code,(123) 456-7890
+pound sign,#1234567890
+pound mix,#123-456-7890
+pound code,#LAW
+bad data,bad data
+capital O,1234567O90
+lower O,1234567o90
